@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  check_ssl:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - /Users/walterxue/Desktop/company/gitlab/certs:/certs
