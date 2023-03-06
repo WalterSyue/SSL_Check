@@ -1,7 +1,7 @@
 #!/bin/bash
 export LANG="en_CN.UTF-8"
-date="/usr/local/bin/gdate"
-ssl_path="/Users/walterxue/Desktop/company/gitlab/certs"
+date="/usr/local/bin/date"
+ssl_path="/Users/walter/Desktop/company/gitlab/certs"
 token="eGy2fC3Ux2U0gDVvpFABZ6Jzd8S2nZxXn8u8bRkt7X3"
 
 

@@ -5,4 +5,4 @@ services:
       context: ./
       dockerfile: Dockerfile
     volumes:
-      - /Users/walterxue/Desktop/company/gitlab/certs:/certs
+      - /Users/walter/Desktop/company/gitlab/certs:/certs
