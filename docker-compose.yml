@@ -6,3 +6,6 @@ services:
       dockerfile: Dockerfile
     volumes:
       - /Users/walter/Desktop/company/gitlab/certs:/certs
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
